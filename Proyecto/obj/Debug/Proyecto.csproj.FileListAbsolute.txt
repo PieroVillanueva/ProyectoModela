@@ -1,0 +1,12 @@
+C:\Users\sagit\source\repos\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\sagit\source\repos\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\sagit\source\repos\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\sagit\source\repos\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\sagit\source\repos\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\sagit\source\repos\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\sagit\source\repos\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\sagit\source\repos\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\sagit\source\repos\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\sagit\source\repos\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\sagit\source\repos\Proyecto\obj\Debug\Proyecto.Menu.resources
+C:\Users\sagit\source\repos\Proyecto\obj\Debug\Proyecto.Venta.resources
